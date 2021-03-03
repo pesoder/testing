@@ -9,7 +9,7 @@ public class calc2 {
 		int oper = 1;
 		while (oper!=5 ) {
 			Scanner scan = new Scanner(System.in);
-			System.out.println("Type in number for operation: ");
+			System.out.println("Typa in number for operation: ");
 			System.out.println("1 for Addition ");
 			System.out.println("2 for Substracion ");
 			System.out.println("3 for Multiplication ");
